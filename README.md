@@ -14,3 +14,6 @@
     * Replace 
     * Drop NA 
     * Export data
+    * Merge
+    * Bins
+    
