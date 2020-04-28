@@ -13,3 +13,4 @@
     * Group by
     * Replace 
     * Drop NA 
+    * Export data
