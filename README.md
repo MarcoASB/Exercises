@@ -23,3 +23,5 @@
     * Bar
     * Pie
     * Scatter
+### :1234: Functions jupyter notebook:
+  * Statistic functions
