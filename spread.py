@@ -27,8 +27,15 @@ def zipped_z_scores(arr):
     return list(zip(arr, z_scores(arr)))
 
 
-sample = [-2, -1, 0, 1, 2]
+#sample = [-2, -1, 0, 1, 2]
 
-print(variance(sample))
-print(standard_deviation(sample))
-print(zipped_z_scores(sample))
+#print(variance(sample))
+#print(standard_deviation(sample))
+#print(zipped_z_scores(sample))
+
+def summarize(title, arr):
+    print(f"Summarizing {title}")
+    print(f"Variance: {variance(arr)}")
+    print(f"Standard Deviation: {standard_deviation(arr)}")
+    print(f"Z-Scores: {zipped_z_scores(arr)}")
+    print("======")
