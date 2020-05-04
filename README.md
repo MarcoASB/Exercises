@@ -23,5 +23,9 @@
     * Bar
     * Pie
     * Scatter
+    * Quartiles
+    * Standard Error
+    * Fit and Regression
+    
 ### :1234: Functions jupyter notebook:
   * Statistic functions
