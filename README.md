@@ -29,3 +29,8 @@
     
 ### :1234: Functions jupyter notebook:
   * Statistic functions
+  
+### :key:   API's
+ * JSON exploration
+ * Weather API
+ * New York Times API
